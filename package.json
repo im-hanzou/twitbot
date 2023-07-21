@@ -4,7 +4,7 @@
   "description": "",
   "main": "twit.js",
   "scripts": {
-    "test": "node likebot.js"
+    "test": "node twit.js"
   },
   "repository": {
     "type": "git",
