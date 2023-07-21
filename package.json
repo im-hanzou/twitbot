@@ -1,0 +1,22 @@
+{
+  "name": "twit-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twit.js",
+  "scripts": {
+    "test": "node likebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantodkaz/twitbot.git"
+  },
+  "author": "Martin Malinowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mantodkaz/twitbot/issues"
+  },
+  "homepage": "https://github.com/Mantodkaz/twitbot",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
